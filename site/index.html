@@ -3,53 +3,283 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>UK Next General Election Polling Tracker</title>
-    <link rel="stylesheet" href="./styles.css" />
+    <title>Open and Easy Elections</title>
+    <meta
+      name="description"
+      content="Open and Easy Elections: simple election tracking pages and live polling visuals."
+    />
+    <style>
+      :root {
+        --bg: #f4efe5;
+        --ink: #181512;
+        --muted: #5f584f;
+        --card: rgba(255, 255, 255, 0.8);
+        --line: rgba(24, 21, 18, 0.12);
+        --accent: #1463ff;
+        --accent-dark: #0f49bc;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 8% 10%, #ffdfb0 0, transparent 36%),
+          radial-gradient(circle at 92% 14%, #d5f0ff 0, transparent 34%),
+          radial-gradient(circle at 50% 115%, #dfe9ff 0, transparent 42%),
+          var(--bg);
+        font-family: Georgia, "Times New Roman", serif;
+      }
+
+      .page {
+        width: min(1120px, calc(100% - 20px));
+        margin: 12px auto 24px;
+        display: grid;
+        gap: 14px;
+      }
+
+      .nav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        padding: 10px 12px;
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        background: rgba(255,255,255,0.55);
+        backdrop-filter: blur(6px);
+      }
+
+      .brand {
+        font: 700 0.95rem/1.1 system-ui, sans-serif;
+        letter-spacing: 0.03em;
+      }
+
+      .nav a {
+        color: var(--ink);
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        font: 500 0.9rem/1 system-ui, sans-serif;
+      }
+
+      .nav a:hover { border-bottom-color: currentColor; }
+
+      .hero {
+        position: relative;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        border-radius: 22px;
+        background: var(--card);
+        box-shadow: 0 14px 40px rgba(30, 20, 8, 0.12);
+        padding: clamp(20px, 4vw, 42px);
+        display: grid;
+        gap: 14px;
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+          linear-gradient(135deg, rgba(20, 99, 255, 0.07), transparent 42%),
+          repeating-linear-gradient(-35deg, rgba(24,21,18,0.03) 0 2px, transparent 2px 12px);
+        pointer-events: none;
+      }
+
+      .hero > * { position: relative; }
+
+      .tag {
+        display: inline-block;
+        width: fit-content;
+        padding: 6px 10px;
+        border-radius: 999px;
+        border: 1px solid var(--line);
+        background: rgba(255,255,255,0.86);
+        color: var(--muted);
+        font: 500 0.82rem/1 system-ui, sans-serif;
+      }
+
+      h1 {
+        margin: 0;
+        max-width: 11ch;
+        text-transform: uppercase;
+        letter-spacing: -0.03em;
+        line-height: 0.92;
+        font-size: clamp(2.1rem, 7vw, 5.2rem);
+      }
+
+      .hero-copy {
+        margin: 0;
+        max-width: 58ch;
+        color: var(--muted);
+        font-size: 1rem;
+      }
+
+      .cta-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 12px 16px;
+        border-radius: 12px;
+        text-decoration: none;
+        font: 700 0.95rem/1 system-ui, sans-serif;
+        border: 1px solid transparent;
+        transition: transform 120ms ease, background-color 120ms ease;
+      }
+
+      .btn-primary {
+        background: var(--accent);
+        color: #fff;
+        box-shadow: 0 8px 22px rgba(20,99,255,0.24);
+      }
+
+      .btn-primary:hover {
+        background: var(--accent-dark);
+        transform: translateY(-1px);
+      }
+
+      .btn-secondary {
+        background: rgba(255,255,255,0.82);
+        color: var(--ink);
+        border-color: var(--line);
+      }
+
+      .btn-secondary:hover {
+        background: #fff;
+        transform: translateY(-1px);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 1.15fr 0.85fr;
+        gap: 14px;
+      }
+
+      .card {
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        background: rgba(255,255,255,0.82);
+        padding: 16px;
+        box-shadow: 0 10px 22px rgba(16, 24, 40, 0.04);
+      }
+
+      .card h2 {
+        margin: 0 0 8px;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        font-size: 0.98rem;
+      }
+
+      .card p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+
+      .links {
+        margin-top: 10px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .link-tile {
+        display: grid;
+        gap: 3px;
+        text-decoration: none;
+        color: inherit;
+        padding: 12px;
+        border-radius: 12px;
+        border: 1px solid var(--line);
+        background: rgba(255,255,255,0.74);
+        transition: transform 120ms ease, border-color 120ms ease, background-color 120ms ease;
+      }
+
+      .link-tile:hover {
+        transform: translateY(-1px);
+        border-color: rgba(20,99,255,0.35);
+        background: rgba(255,255,255,0.94);
+      }
+
+      .link-tile strong {
+        font: 700 0.95rem/1.2 system-ui, sans-serif;
+      }
+
+      .link-tile span {
+        color: var(--muted);
+        font: 400 0.86rem/1.3 system-ui, sans-serif;
+      }
+
+      footer {
+        text-align: center;
+        color: var(--muted);
+        font: 400 0.82rem/1.3 system-ui, sans-serif;
+      }
+
+      @media (max-width: 840px) {
+        .grid { grid-template-columns: 1fr; }
+        h1 { max-width: none; }
+      }
+
+      @media (max-width: 560px) {
+        .nav, .hero, .card { border-radius: 12px; }
+        .btn { width: 100%; }
+      }
+    </style>
   </head>
   <body>
-    <main class="layout">
-      <header class="hero">
-        <p class="eyebrow">Daily Wikipedia Snapshot</p>
-        <h1>UK Next General Election Polling</h1>
-        <p id="meta" class="meta">Loading latest data…</p>
-        <p class="source-line">
-          Source:
-          <a id="sourceLink" href="#" target="_blank" rel="noopener noreferrer">Wikipedia page</a>
-        </p>
+    <main class="page">
+      <header class="nav">
+        <div class="brand">Open and Easy Elections</div>
+        <a href="./uk-polling.html">UK Polling Page</a>
       </header>
 
-      <section class="panel graph-panel" aria-labelledby="graphHeading">
-        <div class="panel-head">
-          <h2 id="graphHeading">Wikipedia Graph</h2>
-          <a id="graphRemoteLink" href="#" target="_blank" rel="noopener noreferrer">Open original image</a>
-        </div>
-        <div class="graph-wrap">
-          <img id="graphImage" alt="Wikipedia polling graph" loading="lazy" />
-          <p id="graphCaption" class="caption"></p>
+      <section class="hero" aria-labelledby="headline">
+        <div class="tag">Election tracking, made simple</div>
+        <h1 id="headline">Open and Easy Elections</h1>
+        <p class="hero-copy">
+          Clean public-facing election pages with live polling visuals and tables.
+          Start with the United Kingdom polling tracker.
+        </p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="./uk-polling.html">Open UK Election Polling Graphic</a>
+          <a
+            class="btn btn-secondary"
+            href="https://en.wikipedia.org/wiki/Next_United_Kingdom_general_election"
+            target="_blank"
+            rel="noopener noreferrer"
+          >Wikipedia Source Page</a>
         </div>
       </section>
 
-      <section class="panel table-panel" aria-labelledby="tableHeading">
-        <div class="panel-head">
-          <h2 id="tableHeading">Opinion Polls Table</h2>
-          <div class="controls">
-            <label for="searchInput">Filter</label>
-            <input id="searchInput" type="search" placeholder="Search rows…" />
+      <section class="grid" aria-label="Site overview">
+        <div class="card">
+          <h2>What this site is</h2>
+          <p>
+            A simple homepage for election resources. The UK page shows the latest polling
+            chart and opinion polling table in a cleaner, mobile-friendly layout.
+          </p>
+        </div>
+
+        <div class="card">
+          <h2>Pages</h2>
+          <div class="links">
+            <a class="link-tile" href="./uk-polling.html">
+              <strong>United Kingdom Polling Tracker</strong>
+              <span>Live graph + table</span>
+            </a>
           </div>
         </div>
-        <p id="tableSummary" class="table-summary"></p>
-        <div class="table-wrap">
-          <table id="pollTable"></table>
-        </div>
       </section>
 
-      <section class="panel notes-panel" aria-labelledby="notesHeading">
-        <h2 id="notesHeading">Notes</h2>
-        <ul id="notesList"></ul>
-      </section>
+      <footer>Built for simple access to election polling visuals and tables.</footer>
     </main>
-
-    <script src="./app.js" defer></script>
   </body>
-  </html>
-
+</html>
