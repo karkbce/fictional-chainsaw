@@ -1,0 +1,25 @@
+{
+  "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
+  "fetched_at": "1970-01-01T00:00:00+00:00",
+  "graph": {
+    "remote_url": null,
+    "local_path": null,
+    "caption": "Run scraper.py to populate live data."
+  },
+  "table": {
+    "title": "Wikipedia polling table (auto-detected)",
+    "columns": [
+      "Status"
+    ],
+    "rows": [
+      {
+        "Status": "Run scraper.py to fetch Wikipedia data"
+      }
+    ],
+    "row_count": 1
+  },
+  "notes": [
+    "Starter placeholder file. GitHub Actions will replace this after the first scheduled/manual run."
+  ]
+}
+

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UK Next General Election Polling Tracker</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <header class="hero">
+        <p class="eyebrow">Daily Wikipedia Snapshot</p>
+        <h1>UK Next General Election Polling</h1>
+        <p id="meta" class="meta">Loading latest data…</p>
+        <p class="source-line">
+          Source:
+          <a id="sourceLink" href="#" target="_blank" rel="noopener noreferrer">Wikipedia page</a>
+        </p>
+      </header>
+
+      <section class="panel graph-panel" aria-labelledby="graphHeading">
+        <div class="panel-head">
+          <h2 id="graphHeading">Wikipedia Graph</h2>
+          <a id="graphRemoteLink" href="#" target="_blank" rel="noopener noreferrer">Open original image</a>
+        </div>
+        <div class="graph-wrap">
+          <img id="graphImage" alt="Wikipedia polling graph" loading="lazy" />
+          <p id="graphCaption" class="caption"></p>
+        </div>
+      </section>
+
+      <section class="panel table-panel" aria-labelledby="tableHeading">
+        <div class="panel-head">
+          <h2 id="tableHeading">Opinion Polls Table</h2>
+          <div class="controls">
+            <label for="searchInput">Filter</label>
+            <input id="searchInput" type="search" placeholder="Search rows…" />
+          </div>
+        </div>
+        <p id="tableSummary" class="table-summary"></p>
+        <div class="table-wrap">
+          <table id="pollTable"></table>
+        </div>
+      </section>
+
+      <section class="panel notes-panel" aria-labelledby="notesHeading">
+        <h2 id="notesHeading">Notes</h2>
+        <ul id="notesList"></ul>
+      </section>
+    </main>
+
+    <script src="./app.js" defer></script>
+  </body>
+  </html>
+
