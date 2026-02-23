@@ -4,7 +4,7 @@ import json
 import os
 import re
 from dataclasses import dataclass
-from datetime import UTC, datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin, urlparse
@@ -191,7 +191,7 @@ def main() -> None:
     paths = ensure_dirs(base)
 
     page_url = os.getenv("WIKI_PAGE_URL", DEFAULT_PAGE_URL)
-    fetched_at = datetime.now(UTC).replace(microsecond=0).isoformat()
+    fetched_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     notes: list[str] = []
 
     session = get_session()
@@ -255,4 +255,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
