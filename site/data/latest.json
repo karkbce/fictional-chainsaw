@@ -1,6 +1,6 @@
 {
   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "fetched_at": "2026-10-12T15:28:47+00:00",
+  "fetched_at": "2026-10-13T14:13:51+00:00",
   "graph": {
     "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg/960px-Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "local_path": "assets/graph-latest.png",
@@ -26,7 +26,7 @@
     "rows": [
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3025",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "34%",
@@ -41,7 +41,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2101",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "29%",
@@ -56,7 +56,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "26–27 Oct 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2167",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "27%",
@@ -71,7 +71,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "23–24 Feb 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[702]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2178",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "31%",
@@ -101,7 +101,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3099",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "41%",
@@ -116,7 +116,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2129",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "35%",
@@ -131,7 +131,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "26–27 Oct 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2167",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "31%",
@@ -146,7 +146,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "23–24 Feb 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[702]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2178",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "35%",
@@ -176,7 +176,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3002",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "29%",
@@ -191,7 +191,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2081",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "21%",
@@ -221,7 +221,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3013",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "27%",
@@ -236,7 +236,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2116",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "20%",
@@ -266,7 +266,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3018",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "8%",
@@ -281,7 +281,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2089",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "6%",
@@ -296,7 +296,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "26–27 Oct 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2167",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "6%",
@@ -311,7 +311,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "23–24 Feb 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[702]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2178",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "10%",
@@ -341,7 +341,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3044",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "4%",
@@ -356,7 +356,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2056",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "3%",
@@ -371,7 +371,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "26–27 Oct 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2167",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "3%",
@@ -386,7 +386,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "23–24 Feb 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[702]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2178",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "5%",
@@ -416,7 +416,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3033",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "4%",
@@ -431,7 +431,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2106",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "3%",
@@ -461,7 +461,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3074",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "3%",
@@ -476,7 +476,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2134",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "2%",
@@ -491,7 +491,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "26–27 Oct 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2167",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "3%",
@@ -506,7 +506,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "23–24 Feb 2025",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[701]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[702]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2178",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "5%",
@@ -536,7 +536,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3052",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "4%",
@@ -551,7 +551,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2084",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "2%",
@@ -581,7 +581,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "15–22 Sep 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[698]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "3055",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "4%",
@@ -596,7 +596,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted | Labour–Conservative": "10–12 Feb 2026",
-        "Pollster | Pollster | Labour–Conservative": "YouGov[699]",
+        "Pollster | Pollster | Labour–Conservative": "YouGov[700]",
         "Area | Area | Labour–Conservative": "GB",
         "Sample size | Sample size | Labour–Conservative": "2074",
         "Lab | Unnamed: 4_level_1 | Labour–Conservative": "3%",
