@@ -1,6 +1,6 @@
 {
   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "fetched_at": "2026-10-18T11:08:09+00:00",
+  "fetched_at": "2026-10-19T13:19:25+00:00",
   "graph": {
     "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg/960px-Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "local_path": "assets/graph-latest.png",
@@ -317,7 +317,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "24–28 Sep",
-        "Pollster | Pollster": "Lord Ashcroft Polls[18][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[18][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5039",
@@ -776,7 +776,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 Aug – 1 Sep",
-        "Pollster | Pollster": "Lord Ashcroft Polls[45][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[45][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5063",
@@ -1099,7 +1099,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "8–11 Aug",
-        "Pollster | Pollster": "JL Partners[63][b]",
+        "Pollster | Pollster": "JL Partners[63][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2017",
@@ -1235,7 +1235,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–3 Aug",
-        "Pollster | Pollster": "JL Partners[71][b]",
+        "Pollster | Pollster": "JL Partners[71][c]",
         "Client | Client": "Bloomberg News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2048",
@@ -1252,7 +1252,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "30 Jul – 3 Aug",
-        "Pollster | Pollster": "Lord Ashcroft Polls[72][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[72][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5303",
@@ -1694,7 +1694,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–6 Jul",
-        "Pollster | Pollster": "More in Common[97][b]",
+        "Pollster | Pollster": "More in Common[97][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2119",
@@ -1830,7 +1830,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–29 Jun",
-        "Pollster | Pollster": "Lord Ashcroft Polls[105][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[105][b][c]",
         "Client | Client": "Mail on Sunday",
         "Area | Area": "GB",
         "Sample size | Sample size": "5064",
@@ -1983,7 +1983,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19–22 Jun",
-        "Pollster | Pollster": "More in Common[113][b]",
+        "Pollster | Pollster": "More in Common[113][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2993",
@@ -2051,7 +2051,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–19 Jun",
-        "Pollster | Pollster": "JL Partners[117][b]",
+        "Pollster | Pollster": "JL Partners[117][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "1946",
@@ -2374,7 +2374,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–26 May",
-        "Pollster | Pollster": "Lord Ashcroft Polls[134][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[134][b][c]",
         "Client | Client": "Mail on Sunday",
         "Area | Area": "GB",
         "Sample size | Sample size": "5263",
@@ -2442,7 +2442,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14–21 May",
-        "Pollster | Pollster": "JL Partners[138][b]",
+        "Pollster | Pollster": "JL Partners[138][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "1741",
@@ -2833,7 +2833,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–27 Apr",
-        "Pollster | Pollster": "Lord Ashcroft Polls[159][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[159][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5094",
@@ -2969,7 +2969,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–16 Apr",
-        "Pollster | Pollster": "Trajectory Partnership[167][b]",
+        "Pollster | Pollster": "Trajectory Partnership[167][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1457",
@@ -3224,7 +3224,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–30 Mar",
-        "Pollster | Pollster": "Lord Ashcroft Polls[182][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[182][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5447",
@@ -3496,7 +3496,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–11 Mar",
-        "Pollster | Pollster": "Trajectory Partnership[197][b]",
+        "Pollster | Pollster": "Trajectory Partnership[197][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1456",
@@ -3632,7 +3632,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–5 Mar",
-        "Pollster | Pollster": "JL Partners[206][b]",
+        "Pollster | Pollster": "JL Partners[206][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "2573",
@@ -3717,7 +3717,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–27 Feb",
-        "Pollster | Pollster": "Opinium[211][b]",
+        "Pollster | Pollster": "Opinium[211][c]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -3802,7 +3802,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19–23 Feb",
-        "Pollster | Pollster": "Lord Ashcroft Polls[215][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[215][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5576",
@@ -3904,7 +3904,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–12 Feb",
-        "Pollster | Pollster": "Trajectory Partnership[221][b]",
+        "Pollster | Pollster": "Trajectory Partnership[221][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1456",
@@ -3921,7 +3921,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–12 Feb",
-        "Pollster | Pollster": "JL Partners[222][b]",
+        "Pollster | Pollster": "JL Partners[222][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "2006",
@@ -3989,7 +3989,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–6 Feb",
-        "Pollster | Pollster": "Opinium[226][b]",
+        "Pollster | Pollster": "Opinium[226][c]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2054",
@@ -4261,7 +4261,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–19 Jan",
-        "Pollster | Pollster": "Lord Ashcroft Polls[242][a][b]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[242][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5448",
