@@ -1,6 +1,6 @@
 {
   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "fetched_at": "2026-10-30T12:57:51+00:00",
+  "fetched_at": "2026-10-31T12:33:34+00:00",
   "graph": {
     "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg/960px-Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "local_path": "assets/graph-latest.png",
@@ -27,8 +27,42 @@
     ],
     "rows": [
       {
+        "Date(s) conducted | Date(s) conducted": "28–29 Oct",
+        "Pollster | Pollster": "Find Out Now[2]",
+        "Client | Client": "",
+        "Area | Area": "GB",
+        "Sample size | Sample size": "2514",
+        "Lab | Unnamed: 5_level_1": "28%",
+        "Con | Unnamed: 6_level_1": "21%",
+        "Ref | Unnamed: 7_level_1": "20%",
+        "LD | Unnamed: 8_level_1": "10%",
+        "Grn | Unnamed: 9_level_1": "11%",
+        "SNP | Unnamed: 10_level_1": "3%",
+        "PC | Unnamed: 11_level_1": "1%",
+        "RB | Unnamed: 12_level_1": "—",
+        "Others | Others": "6%",
+        "Lead | Lead": "7"
+      },
+      {
+        "Date(s) conducted | Date(s) conducted": "28–29 Oct",
+        "Pollster | Pollster": "BMG Research[3]",
+        "Client | Client": "The i Paper",
+        "Area | Area": "GB",
+        "Sample size | Sample size": "1529",
+        "Lab | Unnamed: 5_level_1": "31%",
+        "Con | Unnamed: 6_level_1": "21%",
+        "Ref | Unnamed: 7_level_1": "22%",
+        "LD | Unnamed: 8_level_1": "8%",
+        "Grn | Unnamed: 9_level_1": "8%",
+        "SNP | Unnamed: 10_level_1": "2%",
+        "PC | Unnamed: 11_level_1": "1%",
+        "RB | Unnamed: 12_level_1": "5%",
+        "Others | Others": "2%",
+        "Lead | Lead": "9"
+      },
+      {
         "Date(s) conducted | Date(s) conducted": "25–26 Oct",
-        "Pollster | Pollster": "YouGov[2]",
+        "Pollster | Pollster": "YouGov[4]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2271",
@@ -45,7 +79,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–26 Oct",
-        "Pollster | Pollster": "More in Common[3]",
+        "Pollster | Pollster": "More in Common[5]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3286",
@@ -62,7 +96,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–26 Oct",
-        "Pollster | Pollster": "Deltapoll[4]",
+        "Pollster | Pollster": "Deltapoll[6]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1932",
@@ -79,7 +113,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–23 Oct",
-        "Pollster | Pollster": "Opinium[5]",
+        "Pollster | Pollster": "Opinium[7]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -96,7 +130,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–22 Oct",
-        "Pollster | Pollster": "Find Out Now[6]",
+        "Pollster | Pollster": "Find Out Now[8]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2381",
@@ -113,7 +147,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–22 Oct",
-        "Pollster | Pollster": "Ipsos[7]",
+        "Pollster | Pollster": "Ipsos[9]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1100",
@@ -130,7 +164,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "18–19 Oct",
-        "Pollster | Pollster": "YouGov[8]",
+        "Pollster | Pollster": "YouGov[10]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2520",
@@ -147,7 +181,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–19 Oct",
-        "Pollster | Pollster": "Deltapoll[9]",
+        "Pollster | Pollster": "Deltapoll[11]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2092",
@@ -164,7 +198,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–19 Oct",
-        "Pollster | Pollster": "More in Common[10]",
+        "Pollster | Pollster": "More in Common[12]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3069",
@@ -181,7 +215,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14 Oct",
-        "Pollster | Pollster": "Find Out Now[11]",
+        "Pollster | Pollster": "Find Out Now[13]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2482",
@@ -198,7 +232,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–14 Oct",
-        "Pollster | Pollster": "Trajectory Partnership[12]",
+        "Pollster | Pollster": "Trajectory Partnership[14]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1473",
@@ -215,7 +249,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11–12 Oct",
-        "Pollster | Pollster": "YouGov[13]",
+        "Pollster | Pollster": "YouGov[15]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2393",
@@ -232,7 +266,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–12 Oct",
-        "Pollster | Pollster": "More in Common[14]",
+        "Pollster | Pollster": "More in Common[16]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2101",
@@ -249,7 +283,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22 Sep – 12 Oct",
-        "Pollster | Pollster": "Find Out Now/Electoral Calculus (MRP)[15]",
+        "Pollster | Pollster": "Find Out Now/Electoral Calculus (MRP)[17]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "10684",
@@ -266,7 +300,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–11 Oct",
-        "Pollster | Pollster": "Freshwater Strategy[16]",
+        "Pollster | Pollster": "Freshwater Strategy[18]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1235",
@@ -283,7 +317,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–9 Oct",
-        "Pollster | Pollster": "Opinium[17]",
+        "Pollster | Pollster": "Opinium[19]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -317,7 +351,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7 Oct",
-        "Pollster | Pollster": "Find Out Now[18]",
+        "Pollster | Pollster": "Find Out Now[20]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2590",
@@ -334,7 +368,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–5 Oct",
-        "Pollster | Pollster": "YouGov[19]",
+        "Pollster | Pollster": "YouGov[21]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2312",
@@ -351,7 +385,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–5 Oct",
-        "Pollster | Pollster": "More in Common[20]",
+        "Pollster | Pollster": "More in Common[22]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2088",
@@ -368,7 +402,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–5 Oct",
-        "Pollster | Pollster": "Survation[21]",
+        "Pollster | Pollster": "Survation[23]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1669",
@@ -385,7 +419,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "30 Sep – 2 Oct",
-        "Pollster | Pollster": "Opinium[22]",
+        "Pollster | Pollster": "Opinium[24]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "1552",
@@ -402,7 +436,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25 Sep – 2 Oct",
-        "Pollster | Pollster": "Find Out Now/Electoral Calculus (MRP)[23]",
+        "Pollster | Pollster": "Find Out Now/Electoral Calculus (MRP)[25]",
         "Client | Client": "PLMR",
         "Area | Area": "GB",
         "Sample size | Sample size": "6600",
@@ -419,7 +453,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "30 Sep",
-        "Pollster | Pollster": "Find Out Now[24]",
+        "Pollster | Pollster": "Find Out Now[26]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2607",
@@ -436,7 +470,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29 Sep",
-        "Pollster | Pollster": "Survation[25]",
+        "Pollster | Pollster": "Survation[27]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1548",
@@ -453,7 +487,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–29 Sep",
-        "Pollster | Pollster": "More in Common[26]",
+        "Pollster | Pollster": "More in Common[28]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2041",
@@ -470,7 +504,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27–28 Sep",
-        "Pollster | Pollster": "YouGov[27]",
+        "Pollster | Pollster": "YouGov[29]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2310",
@@ -487,7 +521,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "24–28 Sep",
-        "Pollster | Pollster": "Lord Ashcroft Polls[28][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[30][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5039",
@@ -504,7 +538,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–25 Sep",
-        "Pollster | Pollster": "Opinium[29]",
+        "Pollster | Pollster": "Opinium[31]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -521,7 +555,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–24 Sep",
-        "Pollster | Pollster": "BMG Research[30]",
+        "Pollster | Pollster": "BMG Research[32]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1515",
@@ -538,7 +572,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23 Sep",
-        "Pollster | Pollster": "Find Out Now[31]",
+        "Pollster | Pollster": "Find Out Now[33]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2559",
@@ -555,7 +589,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–23 Sep",
-        "Pollster | Pollster": "Survation[32]",
+        "Pollster | Pollster": "Survation[34]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1224",
@@ -572,7 +606,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "20–21 Sep",
-        "Pollster | Pollster": "YouGov[33]",
+        "Pollster | Pollster": "YouGov[35]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2286",
@@ -589,7 +623,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "18–21 Sep",
-        "Pollster | Pollster": "More in Common[34]",
+        "Pollster | Pollster": "More in Common[36]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2113",
@@ -606,7 +640,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21 Aug – 21 Sep",
-        "Pollster | Pollster": "More in Common (MRP)[35]",
+        "Pollster | Pollster": "More in Common (MRP)[37]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "15765",
@@ -623,7 +657,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–18 Sep",
-        "Pollster | Pollster": "Opinium[36]",
+        "Pollster | Pollster": "Opinium[38]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -640,7 +674,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23 Aug – 18 Sep",
-        "Pollster | Pollster": "YouGov (MRP)[37]",
+        "Pollster | Pollster": "YouGov (MRP)[39]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "16758",
@@ -657,7 +691,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16 Sep",
-        "Pollster | Pollster": "Find Out Now[38]",
+        "Pollster | Pollster": "Find Out Now[40]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2621",
@@ -674,7 +708,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–16 Sep",
-        "Pollster | Pollster": "Trajectory Partnership[39]",
+        "Pollster | Pollster": "Trajectory Partnership[41]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1460",
@@ -691,7 +725,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11–15 Sep",
-        "Pollster | Pollster": "More in Common[40]",
+        "Pollster | Pollster": "More in Common[42]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2038",
@@ -708,7 +742,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–15 Sep",
-        "Pollster | Pollster": "Ipsos[41]",
+        "Pollster | Pollster": "Ipsos[43]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1033",
@@ -725,7 +759,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "13–14 Sep",
-        "Pollster | Pollster": "YouGov[42]",
+        "Pollster | Pollster": "YouGov[44]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2149",
@@ -742,7 +776,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11–14 Sep",
-        "Pollster | Pollster": "Deltapoll[43]",
+        "Pollster | Pollster": "Deltapoll[45]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2056",
@@ -759,7 +793,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–11 Sep",
-        "Pollster | Pollster": "Opinium[44]",
+        "Pollster | Pollster": "Opinium[46]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -776,7 +810,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–11 Sep",
-        "Pollster | Pollster": "Find Out Now/Electoral Calculus (MRP)[45]",
+        "Pollster | Pollster": "Find Out Now/Electoral Calculus (MRP)[47]",
         "Client | Client": "Restore Britain",
         "Area | Area": "GB",
         "Sample size | Sample size": "5500",
@@ -793,7 +827,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–10 Sep",
-        "Pollster | Pollster": "Survation[46]",
+        "Pollster | Pollster": "Survation[48]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "2043",
@@ -810,7 +844,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9 Sep",
-        "Pollster | Pollster": "Find Out Now[47]",
+        "Pollster | Pollster": "Find Out Now[49]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2565",
@@ -827,7 +861,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "6–7 Sep",
-        "Pollster | Pollster": "YouGov[48]",
+        "Pollster | Pollster": "YouGov[50]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2371",
@@ -844,7 +878,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–6 Sep",
-        "Pollster | Pollster": "Freshwater Strategy[49]",
+        "Pollster | Pollster": "Freshwater Strategy[51]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1249",
@@ -861,7 +895,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–6 Sep",
-        "Pollster | Pollster": "More in Common[50]",
+        "Pollster | Pollster": "More in Common[52]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2130",
@@ -878,7 +912,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–4 Sep",
-        "Pollster | Pollster": "Opinium[51]",
+        "Pollster | Pollster": "Opinium[53]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2003",
@@ -895,7 +929,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "20 Aug – 4 Sep",
-        "Pollster | Pollster": "Survation (MRP)[52]",
+        "Pollster | Pollster": "Survation (MRP)[54]",
         "Client | Client": "38 Degrees",
         "Area | Area": "GB",
         "Sample size | Sample size": "8124",
@@ -912,7 +946,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2 Sep",
-        "Pollster | Pollster": "Find Out Now[53]",
+        "Pollster | Pollster": "Find Out Now[55]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2280",
@@ -929,7 +963,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "31 Aug – 1 Sep",
-        "Pollster | Pollster": "YouGov[54]",
+        "Pollster | Pollster": "YouGov[56]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2244",
@@ -946,7 +980,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 Aug – 1 Sep",
-        "Pollster | Pollster": "Lord Ashcroft Polls[55][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[57][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5063",
@@ -963,7 +997,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "28–31 Aug",
-        "Pollster | Pollster": "More in Common[56]",
+        "Pollster | Pollster": "More in Common[58]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2522",
@@ -980,7 +1014,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–28 Aug",
-        "Pollster | Pollster": "Opinium[57]",
+        "Pollster | Pollster": "Opinium[59]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2003",
@@ -997,7 +1031,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–28 Aug",
-        "Pollster | Pollster": "Survation[58]",
+        "Pollster | Pollster": "Survation[60]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "2149",
@@ -1014,7 +1048,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26 Aug",
-        "Pollster | Pollster": "Find Out Now[59]",
+        "Pollster | Pollster": "Find Out Now[61]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2295",
@@ -1031,7 +1065,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–26 Aug",
-        "Pollster | Pollster": "BMG Research[60]",
+        "Pollster | Pollster": "BMG Research[62]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1579",
@@ -1048,7 +1082,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–24 Aug",
-        "Pollster | Pollster": "YouGov[61]",
+        "Pollster | Pollster": "YouGov[63]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2380",
@@ -1065,7 +1099,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–24 Aug",
-        "Pollster | Pollster": "Deltapoll[62]",
+        "Pollster | Pollster": "Deltapoll[64]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2022",
@@ -1082,7 +1116,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–23 Aug",
-        "Pollster | Pollster": "More in Common[63]",
+        "Pollster | Pollster": "More in Common[65]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3140",
@@ -1099,7 +1133,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19 Aug",
-        "Pollster | Pollster": "Find Out Now[64]",
+        "Pollster | Pollster": "Find Out Now[66]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2287",
@@ -1116,7 +1150,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "18 Aug",
-        "Pollster | Pollster": "Survation[65]",
+        "Pollster | Pollster": "Survation[67]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "2013",
@@ -1133,7 +1167,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–17 Aug",
-        "Pollster | Pollster": "YouGov[66]",
+        "Pollster | Pollster": "YouGov[68]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2441",
@@ -1150,7 +1184,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14–17 Aug",
-        "Pollster | Pollster": "Deltapoll[67]",
+        "Pollster | Pollster": "Deltapoll[69]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2017",
@@ -1167,7 +1201,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14–17 Aug",
-        "Pollster | Pollster": "More in Common[68]",
+        "Pollster | Pollster": "More in Common[70]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2055",
@@ -1184,7 +1218,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "12–14 Aug",
-        "Pollster | Pollster": "Opinium[69]",
+        "Pollster | Pollster": "Opinium[71]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -1218,7 +1252,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–13 Aug",
-        "Pollster | Pollster": "Survation[70]",
+        "Pollster | Pollster": "Survation[72]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "2004",
@@ -1235,7 +1269,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "12 Aug",
-        "Pollster | Pollster": "Find Out Now[71]",
+        "Pollster | Pollster": "Find Out Now[73]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2417",
@@ -1252,7 +1286,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–12 Aug",
-        "Pollster | Pollster": "Trajectory Partnership[72]",
+        "Pollster | Pollster": "Trajectory Partnership[74]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1462",
@@ -1269,7 +1303,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "8–11 Aug",
-        "Pollster | Pollster": "JL Partners[73][c]",
+        "Pollster | Pollster": "JL Partners[75][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2017",
@@ -1286,7 +1320,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–10 Aug",
-        "Pollster | Pollster": "YouGov[74]",
+        "Pollster | Pollster": "YouGov[76]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2417",
@@ -1303,7 +1337,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–10 Aug",
-        "Pollster | Pollster": "More in Common[75]",
+        "Pollster | Pollster": "More in Common[77]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2128",
@@ -1320,7 +1354,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–10 Aug",
-        "Pollster | Pollster": "Freshwater Strategy[76]",
+        "Pollster | Pollster": "Freshwater Strategy[78]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1248",
@@ -1337,7 +1371,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–7 Aug",
-        "Pollster | Pollster": "Opinium[77]",
+        "Pollster | Pollster": "Opinium[79]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -1354,7 +1388,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5 Aug",
-        "Pollster | Pollster": "Find Out Now[78]",
+        "Pollster | Pollster": "Find Out Now[80]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2225",
@@ -1371,7 +1405,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "30 Jul – 4 Aug",
-        "Pollster | Pollster": "Ipsos[79]",
+        "Pollster | Pollster": "Ipsos[81]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1033",
@@ -1388,7 +1422,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–3 Aug",
-        "Pollster | Pollster": "YouGov[80]",
+        "Pollster | Pollster": "YouGov[82]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2300",
@@ -1405,7 +1439,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–3 Aug",
-        "Pollster | Pollster": "JL Partners[81][c]",
+        "Pollster | Pollster": "JL Partners[83][c]",
         "Client | Client": "Bloomberg News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2048",
@@ -1422,7 +1456,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "30 Jul – 3 Aug",
-        "Pollster | Pollster": "Lord Ashcroft Polls[82][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[84][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5303",
@@ -1439,7 +1473,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "31 Jul – 2 Aug",
-        "Pollster | Pollster": "More in Common[83]",
+        "Pollster | Pollster": "More in Common[85]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3334",
@@ -1456,7 +1490,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29–31 Jul",
-        "Pollster | Pollster": "Opinium[84]",
+        "Pollster | Pollster": "Opinium[86]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -1473,7 +1507,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29–30 Jul",
-        "Pollster | Pollster": "BMG Research[85]",
+        "Pollster | Pollster": "BMG Research[87]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "974",
@@ -1490,7 +1524,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–30 Jul",
-        "Pollster | Pollster": "Convergent Opinion (MRP)[86]",
+        "Pollster | Pollster": "Convergent Opinion (MRP)[88]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "10919",
@@ -1507,7 +1541,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29 Jul",
-        "Pollster | Pollster": "Find Out Now[87]",
+        "Pollster | Pollster": "Find Out Now[89]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2225",
@@ -1524,7 +1558,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–27 Jul",
-        "Pollster | Pollster": "YouGov[88]",
+        "Pollster | Pollster": "YouGov[90]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2328",
@@ -1541,7 +1575,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–27 Jul",
-        "Pollster | Pollster": "Survation[89]",
+        "Pollster | Pollster": "Survation[91]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1012",
@@ -1558,7 +1592,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "24–27 Jul",
-        "Pollster | Pollster": "More in Common[90]",
+        "Pollster | Pollster": "More in Common[92]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2061",
@@ -1575,7 +1609,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "24–27 Jul",
-        "Pollster | Pollster": "Deltapoll[91]",
+        "Pollster | Pollster": "Deltapoll[93]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2021",
@@ -1592,7 +1626,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–24 Jul",
-        "Pollster | Pollster": "Survation[92]",
+        "Pollster | Pollster": "Survation[94]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1021",
@@ -1609,7 +1643,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–23 Jul",
-        "Pollster | Pollster": "YouGov[93]",
+        "Pollster | Pollster": "YouGov[95]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2262",
@@ -1626,7 +1660,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22 Jul",
-        "Pollster | Pollster": "Find Out Now[94]",
+        "Pollster | Pollster": "Find Out Now[96]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2385",
@@ -1643,7 +1677,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–22 Jul",
-        "Pollster | Pollster": "More in Common[95]",
+        "Pollster | Pollster": "More in Common[97]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3118",
@@ -1660,7 +1694,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19–20 Jul",
-        "Pollster | Pollster": "YouGov[96]",
+        "Pollster | Pollster": "YouGov[98]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2325",
@@ -1677,7 +1711,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "17–20 Jul",
-        "Pollster | Pollster": "Deltapoll[97]",
+        "Pollster | Pollster": "Deltapoll[99]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2027",
@@ -1711,7 +1745,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–17 Jul",
-        "Pollster | Pollster": "Opinium[98]",
+        "Pollster | Pollster": "Opinium[100]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -1728,7 +1762,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–16 Jul",
-        "Pollster | Pollster": "Trajectory Partnership[99]",
+        "Pollster | Pollster": "Trajectory Partnership[101]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1458",
@@ -1745,7 +1779,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15 Jul",
-        "Pollster | Pollster": "Find Out Now[100]",
+        "Pollster | Pollster": "Find Out Now[102]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2398",
@@ -1762,7 +1796,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–14 Jul",
-        "Pollster | Pollster": "Survation[101]",
+        "Pollster | Pollster": "Survation[103]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1743",
@@ -1779,7 +1813,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "12–13 Jul",
-        "Pollster | Pollster": "YouGov[102]",
+        "Pollster | Pollster": "YouGov[104]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2334",
@@ -1796,7 +1830,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–13 Jul",
-        "Pollster | Pollster": "More in Common[103]",
+        "Pollster | Pollster": "More in Common[105]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2198",
@@ -1813,7 +1847,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–10 Jul",
-        "Pollster | Pollster": "Opinium[104]",
+        "Pollster | Pollster": "Opinium[106]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -1830,7 +1864,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "8–9 Jul",
-        "Pollster | Pollster": "Find Out Now[105]",
+        "Pollster | Pollster": "Find Out Now[107]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2076",
@@ -1847,7 +1881,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–6 Jul",
-        "Pollster | Pollster": "YouGov[106]",
+        "Pollster | Pollster": "YouGov[108]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2285",
@@ -1864,7 +1898,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–6 Jul",
-        "Pollster | Pollster": "More in Common[107][c]",
+        "Pollster | Pollster": "More in Common[109][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2119",
@@ -1881,7 +1915,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–5 Jul",
-        "Pollster | Pollster": "Freshwater Strategy[108]",
+        "Pollster | Pollster": "Freshwater Strategy[110]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1240",
@@ -1898,7 +1932,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–3 Jul",
-        "Pollster | Pollster": "Opinium[109]",
+        "Pollster | Pollster": "Opinium[111]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -1915,7 +1949,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–2 Jul",
-        "Pollster | Pollster": "Find Out Now[110]",
+        "Pollster | Pollster": "Find Out Now[112]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2002",
@@ -1932,7 +1966,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–30 Jun",
-        "Pollster | Pollster": "Ipsos[111]",
+        "Pollster | Pollster": "Ipsos[113]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1045",
@@ -1949,7 +1983,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–30 Jun",
-        "Pollster | Pollster": "Find Out Now/Electoral Calculus[112] (MRP)",
+        "Pollster | Pollster": "Find Out Now/Electoral Calculus[114] (MRP)",
         "Client | Client": "PLMR",
         "Area | Area": "GB",
         "Sample size | Sample size": "5545",
@@ -1966,7 +2000,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "28–29 Jun",
-        "Pollster | Pollster": "YouGov[113]",
+        "Pollster | Pollster": "YouGov[115]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2437",
@@ -1983,7 +2017,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–29 Jun",
-        "Pollster | Pollster": "Survation[114]",
+        "Pollster | Pollster": "Survation[116]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "2041",
@@ -2000,7 +2034,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–29 Jun",
-        "Pollster | Pollster": "Lord Ashcroft Polls[115][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[117][b][c]",
         "Client | Client": "Mail on Sunday",
         "Area | Area": "GB",
         "Sample size | Sample size": "5064",
@@ -2017,7 +2051,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–28 Jun",
-        "Pollster | Pollster": "More in Common[116]",
+        "Pollster | Pollster": "More in Common[118]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2852",
@@ -2034,7 +2068,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–28 Jun",
-        "Pollster | Pollster": "More in Common (MRP)[117]",
+        "Pollster | Pollster": "More in Common (MRP)[119]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "14358",
@@ -2051,7 +2085,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26 Jun",
-        "Pollster | Pollster": "Find Out Now[118]",
+        "Pollster | Pollster": "Find Out Now[120]",
         "Client | Client": "Mail on Sunday",
         "Area | Area": "GB",
         "Sample size | Sample size": "2240",
@@ -2068,7 +2102,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "24–26 Jun",
-        "Pollster | Pollster": "Opinium[119]",
+        "Pollster | Pollster": "Opinium[121]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -2085,7 +2119,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "24–25 Jun",
-        "Pollster | Pollster": "Find Out Now[120]",
+        "Pollster | Pollster": "Find Out Now[122]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2140",
@@ -2102,7 +2136,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–24 Jun",
-        "Pollster | Pollster": "BMG Research[121]",
+        "Pollster | Pollster": "BMG Research[123]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1508",
@@ -2136,7 +2170,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–22 Jun",
-        "Pollster | Pollster": "YouGov[122]",
+        "Pollster | Pollster": "YouGov[124]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2345",
@@ -2153,7 +2187,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19–22 Jun",
-        "Pollster | Pollster": "More in Common[123][c]",
+        "Pollster | Pollster": "More in Common[125][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2993",
@@ -2170,7 +2204,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19–22 Jun",
-        "Pollster | Pollster": "More in Common[124]",
+        "Pollster | Pollster": "More in Common[126]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2993",
@@ -2187,7 +2221,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–22 Jun",
-        "Pollster | Pollster": "YouGov[125]",
+        "Pollster | Pollster": "YouGov[127]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "19583",
@@ -2204,7 +2238,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "17–19 Jun",
-        "Pollster | Pollster": "Opinium[126]",
+        "Pollster | Pollster": "Opinium[128]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -2221,7 +2255,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–19 Jun",
-        "Pollster | Pollster": "JL Partners[127][c]",
+        "Pollster | Pollster": "JL Partners[129][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "1946",
@@ -2255,7 +2289,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "17–18 Jun",
-        "Pollster | Pollster": "Find Out Now[128]",
+        "Pollster | Pollster": "Find Out Now[130]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2113",
@@ -2272,7 +2306,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14–15 Jun",
-        "Pollster | Pollster": "YouGov[122]",
+        "Pollster | Pollster": "YouGov[124]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2308",
@@ -2289,7 +2323,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "12–15 Jun",
-        "Pollster | Pollster": "More in Common[129]",
+        "Pollster | Pollster": "More in Common[131]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2097",
@@ -2306,7 +2340,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "12–15 Jun",
-        "Pollster | Pollster": "Deltapoll[130]",
+        "Pollster | Pollster": "Deltapoll[132]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2035",
@@ -2323,7 +2357,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11–15 Jun",
-        "Pollster | Pollster": "Survation[131]",
+        "Pollster | Pollster": "Survation[133]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1003",
@@ -2340,7 +2374,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–11 Jun",
-        "Pollster | Pollster": "Find Out Now[132]",
+        "Pollster | Pollster": "Find Out Now[134]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2113",
@@ -2357,7 +2391,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–9 Jun",
-        "Pollster | Pollster": "More in Common[133]",
+        "Pollster | Pollster": "More in Common[135]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2087",
@@ -2374,7 +2408,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–8 Jun",
-        "Pollster | Pollster": "YouGov[134]",
+        "Pollster | Pollster": "YouGov[136]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2267",
@@ -2391,7 +2425,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "31 May – 7 Jun",
-        "Pollster | Pollster": "Good Growth Foundation[135]",
+        "Pollster | Pollster": "Good Growth Foundation[137]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "4000",
@@ -2408,7 +2442,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–5 Jun",
-        "Pollster | Pollster": "Opinium[136]",
+        "Pollster | Pollster": "Opinium[138]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -2425,7 +2459,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–4 Jun",
-        "Pollster | Pollster": "Find Out Now[137]",
+        "Pollster | Pollster": "Find Out Now[139]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2940",
@@ -2442,7 +2476,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "31 May – 1 Jun",
-        "Pollster | Pollster": "YouGov[138]",
+        "Pollster | Pollster": "YouGov[140]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2342",
@@ -2459,7 +2493,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29 May – 1 Jun",
-        "Pollster | Pollster": "More in Common[139]",
+        "Pollster | Pollster": "More in Common[141]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2211",
@@ -2476,7 +2510,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29–31 May",
-        "Pollster | Pollster": "Freshwater Strategy[140]",
+        "Pollster | Pollster": "Freshwater Strategy[142]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1237",
@@ -2493,7 +2527,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–28 May",
-        "Pollster | Pollster": "BMG Research[141]",
+        "Pollster | Pollster": "BMG Research[143]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1511",
@@ -2510,7 +2544,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 May",
-        "Pollster | Pollster": "Find Out Now[142]",
+        "Pollster | Pollster": "Find Out Now[144]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2111",
@@ -2527,7 +2561,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–26 May",
-        "Pollster | Pollster": "YouGov[143]",
+        "Pollster | Pollster": "YouGov[145]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2354",
@@ -2544,7 +2578,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–26 May",
-        "Pollster | Pollster": "Lord Ashcroft Polls[144][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[146][b][c]",
         "Client | Client": "Mail on Sunday",
         "Area | Area": "GB",
         "Sample size | Sample size": "5263",
@@ -2561,7 +2595,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–25 May",
-        "Pollster | Pollster": "More in Common[145]",
+        "Pollster | Pollster": "More in Common[147]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2111",
@@ -2578,7 +2612,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "20–22 May",
-        "Pollster | Pollster": "Opinium[146]",
+        "Pollster | Pollster": "Opinium[148]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "1500",
@@ -2595,7 +2629,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "20–21 May",
-        "Pollster | Pollster": "Find Out Now[147]",
+        "Pollster | Pollster": "Find Out Now[149]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2773",
@@ -2612,7 +2646,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14–21 May",
-        "Pollster | Pollster": "JL Partners[148][c]",
+        "Pollster | Pollster": "JL Partners[150][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "1741",
@@ -2629,7 +2663,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–20 May",
-        "Pollster | Pollster": "Ipsos[149]",
+        "Pollster | Pollster": "Ipsos[151]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1137",
@@ -2663,7 +2697,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–19 May",
-        "Pollster | Pollster": "More in Common[150]",
+        "Pollster | Pollster": "More in Common[152]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2599",
@@ -2680,7 +2714,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "17–18 May",
-        "Pollster | Pollster": "YouGov[151]",
+        "Pollster | Pollster": "YouGov[153]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2356",
@@ -2697,7 +2731,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–18 May",
-        "Pollster | Pollster": "Deltapoll[152]",
+        "Pollster | Pollster": "Deltapoll[154]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1921",
@@ -2714,7 +2748,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "13–15 May",
-        "Pollster | Pollster": "Techne[153]",
+        "Pollster | Pollster": "Techne[155]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1639",
@@ -2731,7 +2765,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–14 May",
-        "Pollster | Pollster": "Trajectory Partnership[154]",
+        "Pollster | Pollster": "Trajectory Partnership[156]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1459",
@@ -2748,7 +2782,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "13 May",
-        "Pollster | Pollster": "Find Out Now[155]",
+        "Pollster | Pollster": "Find Out Now[157]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2922",
@@ -2765,7 +2799,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–12 May",
-        "Pollster | Pollster": "More in Common[156]",
+        "Pollster | Pollster": "More in Common[158]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3070",
@@ -2782,7 +2816,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–11 May",
-        "Pollster | Pollster": "YouGov[157]",
+        "Pollster | Pollster": "YouGov[159]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2338",
@@ -2799,7 +2833,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–10 May",
-        "Pollster | Pollster": "Freshwater Strategy[158]",
+        "Pollster | Pollster": "Freshwater Strategy[160]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1243",
@@ -2816,7 +2850,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "6–8 May",
-        "Pollster | Pollster": "Opinium[159]",
+        "Pollster | Pollster": "Opinium[161]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -2850,7 +2884,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "6 May",
-        "Pollster | Pollster": "Find Out Now[160]",
+        "Pollster | Pollster": "Find Out Now[162]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2035",
@@ -2867,7 +2901,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–5 May",
-        "Pollster | Pollster": "YouGov[161]",
+        "Pollster | Pollster": "YouGov[163]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2377",
@@ -2884,7 +2918,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–4 May",
-        "Pollster | Pollster": "More in Common[162]",
+        "Pollster | Pollster": "More in Common[164]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2016",
@@ -2901,7 +2935,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29 Apr – 1 May",
-        "Pollster | Pollster": "Opinium[163]",
+        "Pollster | Pollster": "Opinium[165]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2051",
@@ -2918,7 +2952,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26 Apr – 1 May",
-        "Pollster | Pollster": "Deltapoll[164]",
+        "Pollster | Pollster": "Deltapoll[166]",
         "Client | Client": "The Mirror",
         "Area | Area": "GB",
         "Sample size | Sample size": "3353",
@@ -2935,7 +2969,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29–30 Apr",
-        "Pollster | Pollster": "BMG Research[165]",
+        "Pollster | Pollster": "BMG Research[167]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1521",
@@ -2952,7 +2986,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29 Apr",
-        "Pollster | Pollster": "Find Out Now[166]",
+        "Pollster | Pollster": "Find Out Now[168]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3005",
@@ -2969,7 +3003,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–27 Apr",
-        "Pollster | Pollster": "YouGov[167]",
+        "Pollster | Pollster": "YouGov[169]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2354",
@@ -2986,7 +3020,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "24–27 Apr",
-        "Pollster | Pollster": "More in Common[168]",
+        "Pollster | Pollster": "More in Common[170]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2041",
@@ -3003,7 +3037,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–27 Apr",
-        "Pollster | Pollster": "Lord Ashcroft Polls[169][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[171][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5094",
@@ -3020,7 +3054,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–24 Apr",
-        "Pollster | Pollster": "Techne[170]",
+        "Pollster | Pollster": "Techne[172]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1645",
@@ -3037,7 +3071,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–24 Apr",
-        "Pollster | Pollster": "Opinium[171]",
+        "Pollster | Pollster": "Opinium[173]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -3054,7 +3088,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–23 Apr",
-        "Pollster | Pollster": "Find Out Now[172]",
+        "Pollster | Pollster": "Find Out Now[174]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2656",
@@ -3071,7 +3105,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19–20 Apr",
-        "Pollster | Pollster": "YouGov[173]",
+        "Pollster | Pollster": "YouGov[175]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2472",
@@ -3088,7 +3122,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "17–20 Apr",
-        "Pollster | Pollster": "More in Common[174]",
+        "Pollster | Pollster": "More in Common[176]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2235",
@@ -3105,7 +3139,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–17 Apr",
-        "Pollster | Pollster": "Opinium[175]",
+        "Pollster | Pollster": "Opinium[177]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2014",
@@ -3122,7 +3156,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–16 Apr",
-        "Pollster | Pollster": "Find Out Now[176]",
+        "Pollster | Pollster": "Find Out Now[178]",
         "Client | Client": "Restore Britain",
         "Area | Area": "GB",
         "Sample size | Sample size": "2284",
@@ -3139,7 +3173,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–16 Apr",
-        "Pollster | Pollster": "Trajectory Partnership[177][c]",
+        "Pollster | Pollster": "Trajectory Partnership[179][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1457",
@@ -3156,7 +3190,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15 Apr",
-        "Pollster | Pollster": "Find Out Now[178]",
+        "Pollster | Pollster": "Find Out Now[180]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2032",
@@ -3173,7 +3207,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–15 Apr",
-        "Pollster | Pollster": "Ipsos[179]",
+        "Pollster | Pollster": "Ipsos[181]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1044",
@@ -3190,7 +3224,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "12–13 Apr",
-        "Pollster | Pollster": "YouGov[180]",
+        "Pollster | Pollster": "YouGov[182]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2367",
@@ -3207,7 +3241,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–13 Apr",
-        "Pollster | Pollster": "More in Common[181]",
+        "Pollster | Pollster": "More in Common[183]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2011",
@@ -3224,7 +3258,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–12 Apr",
-        "Pollster | Pollster": "Freshwater Strategy[182]",
+        "Pollster | Pollster": "Freshwater Strategy[184]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1250",
@@ -3241,7 +3275,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "8–9 Apr",
-        "Pollster | Pollster": "JL Partners[183]",
+        "Pollster | Pollster": "JL Partners[185]",
         "Client | Client": "The Spectator",
         "Area | Area": "GB",
         "Sample size | Sample size": "3506",
@@ -3258,7 +3292,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "8 Apr",
-        "Pollster | Pollster": "Find Out Now[184]",
+        "Pollster | Pollster": "Find Out Now[186]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2869",
@@ -3275,7 +3309,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "6–7 Apr",
-        "Pollster | Pollster": "YouGov[185]",
+        "Pollster | Pollster": "YouGov[187]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2320",
@@ -3292,7 +3326,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–7 Apr",
-        "Pollster | Pollster": "More in Common[186]",
+        "Pollster | Pollster": "More in Common[188]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2009",
@@ -3309,7 +3343,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 Mar – 7 Apr",
-        "Pollster | Pollster": "Find Out Now/ Electoral Calculus[187] (MRP)",
+        "Pollster | Pollster": "Find Out Now/ Electoral Calculus[189] (MRP)",
         "Client | Client": "PLMR",
         "Area | Area": "GB",
         "Sample size | Sample size": "5599",
@@ -3326,7 +3360,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–2 Apr",
-        "Pollster | Pollster": "Find Out Now[188]",
+        "Pollster | Pollster": "Find Out Now[190]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2330",
@@ -3343,7 +3377,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 Mar – 1 Apr",
-        "Pollster | Pollster": "Good Growth Foundation[189]",
+        "Pollster | Pollster": "Good Growth Foundation[191]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2005",
@@ -3360,7 +3394,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "29–30 Mar",
-        "Pollster | Pollster": "YouGov[190]",
+        "Pollster | Pollster": "YouGov[192]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2368",
@@ -3377,7 +3411,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "28–30 Mar",
-        "Pollster | Pollster": "More in Common[191]",
+        "Pollster | Pollster": "More in Common[193]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2003",
@@ -3394,7 +3428,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–30 Mar",
-        "Pollster | Pollster": "Lord Ashcroft Polls[192][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[194][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5447",
@@ -3411,7 +3445,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–30 Mar",
-        "Pollster | Pollster": "More in Common (MRP)[193]",
+        "Pollster | Pollster": "More in Common (MRP)[195]",
         "Client | Client": "The Times",
         "Area | Area": "GB",
         "Sample size | Sample size": "15482",
@@ -3428,7 +3462,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "26–27 Mar",
-        "Pollster | Pollster": "Find Out Now[194]",
+        "Pollster | Pollster": "Find Out Now[196]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "3092",
@@ -3445,7 +3479,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–26 Mar",
-        "Pollster | Pollster": "BMG Research[195]",
+        "Pollster | Pollster": "BMG Research[197]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1507",
@@ -3462,7 +3496,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25 Mar",
-        "Pollster | Pollster": "Find Out Now[196]",
+        "Pollster | Pollster": "Find Out Now[198]",
         "Client | Client": "Restore Britain",
         "Area | Area": "GB",
         "Sample size | Sample size": "2948",
@@ -3479,7 +3513,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–23 Mar",
-        "Pollster | Pollster": "YouGov[197]",
+        "Pollster | Pollster": "YouGov[199]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2435",
@@ -3496,7 +3530,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "20–23 Mar",
-        "Pollster | Pollster": "Verian[198]",
+        "Pollster | Pollster": "Verian[200]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1236",
@@ -3513,7 +3547,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "20–22 Mar",
-        "Pollster | Pollster": "More in Common[199]",
+        "Pollster | Pollster": "More in Common[201]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2408",
@@ -3547,7 +3581,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "18–20 Mar",
-        "Pollster | Pollster": "Opinium[200]",
+        "Pollster | Pollster": "Opinium[202]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -3564,7 +3598,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "18 Mar",
-        "Pollster | Pollster": "Find Out Now[201]",
+        "Pollster | Pollster": "Find Out Now[203]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2549",
@@ -3581,7 +3615,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–16 Mar",
-        "Pollster | Pollster": "YouGov[202]",
+        "Pollster | Pollster": "YouGov[204]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2329",
@@ -3598,7 +3632,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "13–16 Mar",
-        "Pollster | Pollster": "More in Common[203]",
+        "Pollster | Pollster": "More in Common[205]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2402",
@@ -3615,7 +3649,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–12 Mar",
-        "Pollster | Pollster": "Techne[204]",
+        "Pollster | Pollster": "Techne[206]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1639",
@@ -3632,7 +3666,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11 Mar",
-        "Pollster | Pollster": "Find Out Now[205]",
+        "Pollster | Pollster": "Find Out Now[207]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2793",
@@ -3649,7 +3683,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–11 Mar",
-        "Pollster | Pollster": "Ipsos[206]",
+        "Pollster | Pollster": "Ipsos[208]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1062",
@@ -3666,7 +3700,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "3–11 Mar",
-        "Pollster | Pollster": "Trajectory Partnership[207][c]",
+        "Pollster | Pollster": "Trajectory Partnership[209][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1456",
@@ -3683,7 +3717,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–10 Mar",
-        "Pollster | Pollster": "YouGov[208]",
+        "Pollster | Pollster": "YouGov[210]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2246",
@@ -3700,7 +3734,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "6–9 Mar",
-        "Pollster | Pollster": "More in Common[209]",
+        "Pollster | Pollster": "More in Common[211]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2112",
@@ -3717,7 +3751,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5–6 Mar",
-        "Pollster | Pollster": "Convergent Opinion[210]",
+        "Pollster | Pollster": "Convergent Opinion[212]",
         "Client | Client": "Meliore",
         "Area | Area": "GB",
         "Sample size | Sample size": "2189",
@@ -3734,7 +3768,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–6 Mar",
-        "Pollster | Pollster": "Opinium[211]",
+        "Pollster | Pollster": "Opinium[213]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -3751,7 +3785,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–6 Mar",
-        "Pollster | Pollster": "Find Out Now[212]",
+        "Pollster | Pollster": "Find Out Now[214]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2548",
@@ -3768,7 +3802,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "5 Mar",
-        "Pollster | Pollster": "Survation[213][214]",
+        "Pollster | Pollster": "Survation[215][216]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1045",
@@ -3785,7 +3819,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–5 Mar",
-        "Pollster | Pollster": "BMG Research[215]",
+        "Pollster | Pollster": "BMG Research[217]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1503",
@@ -3802,7 +3836,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–5 Mar",
-        "Pollster | Pollster": "JL Partners[216][c]",
+        "Pollster | Pollster": "JL Partners[218][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "2573",
@@ -3819,7 +3853,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–2 Mar",
-        "Pollster | Pollster": "YouGov[217]",
+        "Pollster | Pollster": "YouGov[219]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2073",
@@ -3836,7 +3870,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 Feb – 2 Mar",
-        "Pollster | Pollster": "More in Common[218]",
+        "Pollster | Pollster": "More in Common[220]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2010",
@@ -3853,7 +3887,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 Feb – 1 Mar",
-        "Pollster | Pollster": "Freshwater Strategy[219]",
+        "Pollster | Pollster": "Freshwater Strategy[221]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1221",
@@ -3870,7 +3904,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "27 Feb – 1 Mar",
-        "Pollster | Pollster": "Convergent Opinion[220]",
+        "Pollster | Pollster": "Convergent Opinion[222]",
         "Client | Client": "Persuasion UK",
         "Area | Area": "GB",
         "Sample size | Sample size": "4988",
@@ -3887,7 +3921,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–27 Feb",
-        "Pollster | Pollster": "Opinium[221][c]",
+        "Pollster | Pollster": "Opinium[223][c]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -3921,7 +3955,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25 Feb",
-        "Pollster | Pollster": "Find Out Now[222]",
+        "Pollster | Pollster": "Find Out Now[224]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2442",
@@ -3938,7 +3972,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–23 Feb",
-        "Pollster | Pollster": "YouGov[223]",
+        "Pollster | Pollster": "YouGov[225]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2325",
@@ -3955,7 +3989,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "20–23 Feb",
-        "Pollster | Pollster": "More in Common[224]",
+        "Pollster | Pollster": "More in Common[226]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2015",
@@ -3972,7 +4006,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "19–23 Feb",
-        "Pollster | Pollster": "Lord Ashcroft Polls[225][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[227][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5576",
@@ -3989,7 +4023,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "18 Feb",
-        "Pollster | Pollster": "Find Out Now[226]",
+        "Pollster | Pollster": "Find Out Now[228]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2178",
@@ -4006,7 +4040,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "13–17 Feb",
-        "Pollster | Pollster": "More in Common[227]",
+        "Pollster | Pollster": "More in Common[229]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2108",
@@ -4023,7 +4057,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–16 Feb",
-        "Pollster | Pollster": "YouGov[228]",
+        "Pollster | Pollster": "YouGov[230]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2384",
@@ -4040,7 +4074,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "13–16 Feb",
-        "Pollster | Pollster": "Good Growth Foundation[229]",
+        "Pollster | Pollster": "Good Growth Foundation[231]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2000",
@@ -4057,7 +4091,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11–12 Feb",
-        "Pollster | Pollster": "Techne[230]",
+        "Pollster | Pollster": "Techne[232]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1644",
@@ -4074,7 +4108,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–12 Feb",
-        "Pollster | Pollster": "Trajectory Partnership[231][c]",
+        "Pollster | Pollster": "Trajectory Partnership[233][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1456",
@@ -4091,7 +4125,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–12 Feb",
-        "Pollster | Pollster": "JL Partners[232][c]",
+        "Pollster | Pollster": "JL Partners[234][c]",
         "Client | Client": "The Sun",
         "Area | Area": "GB",
         "Sample size | Sample size": "2006",
@@ -4108,7 +4142,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11 Feb",
-        "Pollster | Pollster": "Find Out Now[233]",
+        "Pollster | Pollster": "Find Out Now[235]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1394",
@@ -4125,7 +4159,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "6–10 Feb",
-        "Pollster | Pollster": "More in Common[234]",
+        "Pollster | Pollster": "More in Common[236]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2035",
@@ -4142,7 +4176,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "8–9 Feb",
-        "Pollster | Pollster": "YouGov[235]",
+        "Pollster | Pollster": "YouGov[237]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2466",
@@ -4159,7 +4193,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–6 Feb",
-        "Pollster | Pollster": "Opinium[236][c]",
+        "Pollster | Pollster": "Opinium[238][c]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2054",
@@ -4176,7 +4210,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4 Feb",
-        "Pollster | Pollster": "Find Out Now[237]",
+        "Pollster | Pollster": "Find Out Now[239]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2264",
@@ -4193,7 +4227,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "1–2 Feb",
-        "Pollster | Pollster": "YouGov[238]",
+        "Pollster | Pollster": "YouGov[240]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2330",
@@ -4210,7 +4244,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "31 Jan – 2 Feb",
-        "Pollster | Pollster": "More in Common[239]",
+        "Pollster | Pollster": "More in Common[241]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2005",
@@ -4227,7 +4261,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "30 Jan – 1 Feb",
-        "Pollster | Pollster": "Freshwater Strategy[240]",
+        "Pollster | Pollster": "Freshwater Strategy[242]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1250",
@@ -4244,7 +4278,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "28–29 Jan",
-        "Pollster | Pollster": "BMG Research[241]",
+        "Pollster | Pollster": "BMG Research[243]",
         "Client | Client": "The i Paper",
         "Area | Area": "GB",
         "Sample size | Sample size": "1513",
@@ -4261,7 +4295,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "28–29 Jan",
-        "Pollster | Pollster": "Survation[242]",
+        "Pollster | Pollster": "Survation[244]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1016",
@@ -4278,7 +4312,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "28 Jan",
-        "Pollster | Pollster": "Find Out Now[243]",
+        "Pollster | Pollster": "Find Out Now[245]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1799",
@@ -4295,7 +4329,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "22–27 Jan",
-        "Pollster | Pollster": "Ipsos[244]",
+        "Pollster | Pollster": "Ipsos[246]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1104",
@@ -4312,7 +4346,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "25–26 Jan",
-        "Pollster | Pollster": "YouGov[245]",
+        "Pollster | Pollster": "YouGov[247]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2429",
@@ -4329,7 +4363,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "23–25 Jan",
-        "Pollster | Pollster": "More in Common[246]",
+        "Pollster | Pollster": "More in Common[248]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2016",
@@ -4346,7 +4380,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21–23 Jan",
-        "Pollster | Pollster": "Opinium[247]",
+        "Pollster | Pollster": "Opinium[249]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -4363,7 +4397,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "21 Jan",
-        "Pollster | Pollster": "Find Out Now[248]",
+        "Pollster | Pollster": "Find Out Now[250]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1385",
@@ -4380,7 +4414,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "18–19 Jan",
-        "Pollster | Pollster": "YouGov[249]",
+        "Pollster | Pollster": "YouGov[251]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2335",
@@ -4397,7 +4431,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–19 Jan",
-        "Pollster | Pollster": "Focaldata[250]",
+        "Pollster | Pollster": "Focaldata[252]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1585",
@@ -4414,7 +4448,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "16–19 Jan",
-        "Pollster | Pollster": "More in Common[251]",
+        "Pollster | Pollster": "More in Common[253]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2007",
@@ -4431,7 +4465,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "15–19 Jan",
-        "Pollster | Pollster": "Lord Ashcroft Polls[252][b][c]",
+        "Pollster | Pollster": "Lord Ashcroft Polls[254][b][c]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "5448",
@@ -4448,7 +4482,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14–15 Jan",
-        "Pollster | Pollster": "Techne[253]",
+        "Pollster | Pollster": "Techne[255]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1636",
@@ -4465,7 +4499,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14 Jan",
-        "Pollster | Pollster": "Find Out Now[254]",
+        "Pollster | Pollster": "Find Out Now[256]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "1592",
@@ -4482,7 +4516,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–14 Jan",
-        "Pollster | Pollster": "Survation[255]",
+        "Pollster | Pollster": "Survation[257]",
         "Client | Client": "",
         "Area | Area": "UK",
         "Sample size | Sample size": "1616",
@@ -4499,7 +4533,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "10–13 Jan",
-        "Pollster | Pollster": "More in Common[256]",
+        "Pollster | Pollster": "More in Common[258]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2036",
@@ -4516,7 +4550,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "11–12 Jan",
-        "Pollster | Pollster": "YouGov[257]",
+        "Pollster | Pollster": "YouGov[259]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2259",
@@ -4533,7 +4567,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "9–11 Jan",
-        "Pollster | Pollster": "Freshwater Strategy[258]",
+        "Pollster | Pollster": "Freshwater Strategy[260]",
         "Client | Client": "City AM",
         "Area | Area": "GB",
         "Sample size | Sample size": "1250",
@@ -4550,7 +4584,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–9 Jan",
-        "Pollster | Pollster": "Opinium[259]",
+        "Pollster | Pollster": "Opinium[261]",
         "Client | Client": "The Observer",
         "Area | Area": "GB",
         "Sample size | Sample size": "2050",
@@ -4567,7 +4601,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "14 Dec – 9 Jan",
-        "Pollster | Pollster": "YouGov[260]",
+        "Pollster | Pollster": "YouGov[262]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "17230",
@@ -4584,7 +4618,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "7–8 Jan",
-        "Pollster | Pollster": "Find Out Now[261]",
+        "Pollster | Pollster": "Find Out Now[263]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2422",
@@ -4601,7 +4635,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "4–5 Jan",
-        "Pollster | Pollster": "YouGov[262]",
+        "Pollster | Pollster": "YouGov[264]",
         "Client | Client": "The Times/Sky News",
         "Area | Area": "GB",
         "Sample size | Sample size": "2343",
@@ -4618,7 +4652,7 @@
       },
       {
         "Date(s) conducted | Date(s) conducted": "2–5 Jan",
-        "Pollster | Pollster": "More in Common[263]",
+        "Pollster | Pollster": "More in Common[265]",
         "Client | Client": "",
         "Area | Area": "GB",
         "Sample size | Sample size": "2021",
@@ -4634,7 +4668,7 @@
         "Lead | Lead": "8"
       }
     ],
-    "row_count": 271
+    "row_count": 273
   },
   "notes": []
 }
