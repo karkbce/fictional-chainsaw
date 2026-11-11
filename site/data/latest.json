@@ -1,6 +1,6 @@
 {
   "source_url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "fetched_at": "2026-11-10T14:55:02+00:00",
+  "fetched_at": "2026-11-11T14:25:19+00:00",
   "graph": {
     "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg/960px-Scotland-only_UK_general_election_opinion_polling_%28post-2024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "local_path": "assets/graph-latest.png",
@@ -55,7 +55,7 @@
         "LD | Unnamed: 8_level_1": "9%",
         "Grn | Unnamed: 9_level_1": "7%",
         "SNP | Unnamed: 10_level_1": "3%",
-        "PC | Unnamed: 11_level_1": "TBA",
+        "PC | Unnamed: 11_level_1": "1%",
         "RB | Unnamed: 12_level_1": "6%",
         "Others | Others": "1%",
         "Lead | Lead": "3"
